@@ -21,9 +21,9 @@ class LumbarSpineReconstruction(ScriptedLoadableModule):
         self.parent.dependencies = []
         self.parent.contributors = ["Lara Blomenkamp (VisSim Research Group)"]
         self.parent.helpText ='''
-        The Spine Registration module registrates a set of artificial sawbone models to custom spine models (T1-L5).
+        The Spine Registration module registrates a set of artificial sawbone models to custom spine models (L1-L5).
         The goal is to align sawbones with the provided vertebra models, that consist of only the vertebral bodies.
-        In the registration process, the size and orientation of the sawbones are adjusted to match the custom spine.
+        In the registration process, the position, orientation and size of the sawbones are adjusted to match the custom spine.
         After the registration, the facet joints are aligned to fit together with realistic spacing.
         '''
         self.parent.helpText += self.getDefaultModuleDocumentationLink()
