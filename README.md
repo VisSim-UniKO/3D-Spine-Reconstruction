@@ -4,5 +4,4 @@ The goal is to align sawbones with the provided vertebra models, which consist o
 In the registration process, the position, orientation and size of the sawbones are adjusted to match the custom spine.
 
 ## LumbarSpineReconstruction Plugin
-https://github.com/VisSim-UniKO/3D-Spine-Reconstruction/assets/105813930/b53656cc-eb41-41c3-ae40-0fb263d4c590
-
+![LumbarSpineReconstruction_Demo](https://github.com/VisSim-UniKO/3D-Spine-Reconstruction/assets/105813930/5b1ff5f1-2631-476c-a024-274770fb3878)
