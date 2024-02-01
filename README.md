@@ -1,5 +1,5 @@
 # 3D Lumbar Spine Reconstruction
-The Spine Reconstruction module registrates a set of artificial sawbone models to custom spine models (T1-L5).
+The LumbarSpineReconstruction module registrates a set of artificial sawbone models to custom spine models (L1-L5).
 The goal is to align sawbones with the provided vertebra models, which consist of only the vertebral bodies.
 In the registration process, the size and orientation of the sawbones are adjusted to match the custom spine.
 
